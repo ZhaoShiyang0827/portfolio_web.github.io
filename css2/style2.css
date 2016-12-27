@@ -1,0 +1,387 @@
+ul.nav.navbar-nav.top2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#big_pic h1 {
+  color: black;
+  text-align: center;
+
+}
+#b_pic{
+  width: 100%;
+  margin-top: -16px;
+}
+.container > .row {
+	margin-top: 10px;
+}
+section#top_section {
+  height: 800px;
+}
+nav.navbar.navbar-inverse.navbar-fixed-top.topnav {
+  background-color: #141A3D;
+  border-color: #141A3D;
+}
+
+ul#menu li {
+	display:inline;
+	text-align: center;
+	margin-top: 50px;
+}
+div.social {
+	margin-top: 21px;
+	padding-right: 30px;
+}
+
+p {
+	font-family:'Raleway', sans-serif;
+  text-decoration: none
+}
+
+h1 {
+	font-family:'Montserrat', sans-serif;
+  color: #F3BF3F;
+}
+
+img.pull-left {
+	position: relative;
+	top: -10px;
+}
+p {
+  color: #F3BF3F;
+  margin-top: 10px;
+}
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  left: 0%;
+  top: 0%;
+  
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(0,1);
+  -ms-transform: scale(0,1);
+  transform: scale(0,1);
+}
+
+.hovereffect:hover .overlay {
+  opacity: 3;
+  filter: alpha(opacity=100);
+  background-color: #F3BF3F;
+  opacity: 0.97;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+  filter: url();
+  filter: brightness(1);
+  -webkit-filter: brightness(1);
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  background-color: transparent;
+  color: #FFF;
+  padding: 1em 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(0,-100%,0);
+  transform: translate3d(0,-100%,0);
+}
+
+.hovereffect a, hovereffect p {
+  color: #FFF;
+  padding: 1em 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(0,100%,0);
+  transform: translate3d(0,100%,0);
+}
+
+.hovereffect:hover a, .hovereffect:hover p, .hovereffect:hover h2 {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  text-decoration: none;
+  text-decoration-style: blue;
+  color: #141A3D;
+  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  margin-top: 30px;
+}
+
+p.copyright {
+	padding-left: 36px;
+}
+body.whole{
+  background-color: #141A3D;
+}
+body.project {
+  background-color: #f5854d;
+}
+#about{
+ margin-top: 20px;
+}
+ .navbar-inverse .navbar-nav>li>a {
+    color: #F3BF3F;
+}
+
+ .navbar-inverse .navbar-nav>li>a:hover {
+    color: #C21C66;
+}
+
+.fa-3x {
+    font-size: 3em;
+    color: #F3BF3F;
+    }
+ul#menu {
+  padding-right: 12px;
+  margin-top: 30px;
+}
+i:hover{
+  color:  #C21C66;
+
+}
+img.img-responsive.funnel {
+  padding-left: 50px;
+  margin-top: 80px;
+}
+h2.funnel {
+  margin-top: 110px;
+}
+h2.sitemap {
+  margin-top: 130px;
+  margin-bottom: 80px;
+  font-family:'Raleway', sans-serif;
+}
+
+h2.wireframe {
+  margin-top: 130px;
+  margin-bottom: 80px;
+  font-family:'Raleway', sans-serif;
+}
+h2.funnel {
+  margin-bottom: 30px;
+  
+  font-family:'Raleway', sans-serif;
+
+}
+
+div.col-lg-12.col-md-12.col-xs-12.smart {
+  margin-top: 50px;
+}
+
+a.email {
+  padding-left: 30px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #F3BF3F;
+}
+a.email:hover {
+  color: #C21C66;
+}
+h1.macworld_top {
+  margin-top: 170px;
+  margin-bottom: 30px;
+  color: white;
+}
+h1.istudy1 {
+  font-family:'Raleway', sans-serif;
+  margin-top: 146px;
+}
+h4.istudy2 {
+  font-family:'Raleway', sans-serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  line-height: 2;
+  margin-top: 28px;
+}
+h3.macworld_p {
+  color: white;
+  margin-bottom: 61px;
+  ont-family:'Raleway', sans-serif;
+}
+h2.macworld_top {
+  margin-top: 100px;
+  margin-bottom: 71px;
+  color: white;
+  ont-family:'Raleway', sans-serif;
+}
+
+h2.macworld_topm {
+  margin-top: 170px;
+  margin-bottom: 40px;
+  color: white;
+  ont-family:'Raleway', sans-serif;
+}
+h1.poppin_top {
+  margin-top: 200px;
+  color: white;
+  font-family:'Raleway', sans-serif;
+}
+h3.poppin_p {
+  color: white;
+  margin-bottom: 150px;
+  ont-family:'Raleway', sans-serif;
+}
+
+h2.poppin_sec_title {
+  font-family:'Raleway', sans-serif;
+  color: black;
+   margin-top: 170px;
+  margin-bottom: 100px;
+}
+#about {
+  margin-top: 117px;
+}
+
+p.footer {
+  margin-top: 70px;
+}
+p.copyright {
+  margin-top: 70px;
+}
+
+img.img-responsive.specs {
+  margin-top: 40px;
+}
+nav.navbar.navbar-inverse.navbar-fixed-top.topnav {
+  min-height: 65px;
+}
+ul.nav.navbar-nav {
+  margin-top: 5px;
+}
+button.navbar-toggle {
+  color: #F3BF3F !important;
+}
+
+@media (max-width: @screen-lg) {
+  body{font-size: 31px;}
+}
+
+@media (max-width: 480px) {
+  h1{font-size: 30px;}
+  h3{font-size: 20px;}
+  img.img-responsive.funnel {
+    padding-left: 20px;
+  }
+
+}
+
+div.navbar-brand.topnav {
+  margin-top: 6px;
+}
+
+div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1 {
+  /*margin-left: 180px;*/
+}
+
+img.head1 {
+  margin-top: 32px;
+}
+
+p.about2 {
+    line-height: 26px;
+    font-size: 15px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: left;
+}
+
+h1.portfolio1 {
+  margin-bottom: 21px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 181px;
+  margin-bottom: 50px;
+  color:  #F3BF3F;
+}
+
+h2.hello1 {
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color:  #F3BF3F;
+
+}
+
+h1.hello2 {
+  margin-top: 201px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90px;
+   color:  #F3BF3F;
+
+}
+
+h1.about3 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 118px;
+  color:  #F3BF3F;
+
+
+}
+
+i.fa.fa-chevron-down.fa-3x.top1 {
+  margin-top: 55px;
+}
+
+ul.nav.navbar-nav.top2 {
+  color:  #F3BF3F;
+}
+
+a.page-scroll {
+  color: #F3BF3F;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color:  #F3BF3F !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color:  #C21C66 !important;
+}
+div.col-md-6 > img {
+  width: 80%;
+}
+div.container h1 {
+  color: black;
+  margin: 120px 0px 50px 0px;
+  text-transform:uppercase;
+}
+div.container p{
+  color: black;
+
+}
+
+
+
+
+

@@ -1,0 +1,292 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Istudy_Josh1_analysis.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: points
+Artboard Dimensions: 552.215 pt x 343.174 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Roboto Regular (not installed)
+AeroMaticsDisplayRegular (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+American Typewriter (TrueType)
+Gotham Light (OTF)
+Gotham Book (OTF)
+Helvetica Light (TrueType)
+Helvetica (TrueType)
+Helvetica Bold (TrueType)
+Montserrat-Regular (OTF)
+Montserrat-Bold (OTF)
+Myriad Pro (OTF)
+Myriad Pro Semibold (OTF)
+Myriad Pro Bold (OTF)
+Open Sans (OTF)
+Santa Fe LET Plain:1.0 (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Users/student/Downloads/IMG_0842.PNG
+Type: Other
+
+/Users/student/Desktop/IMG_0842.PNG
+Type: Other
+
+/Users/student/Downloads/IMG_0843.PNG
+Type: Other
+
+/Users/student/Desktop/  .PNG
+Type: Other
+
+/Users/student/Downloads/IMG_0844.PNG
+Type: Other
+
+/Users/student/Desktop/IMG_0844.PNG
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-27 at 2.22.59 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Users/student/Desktop/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-27 at 2.22.59 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/IMG_0796.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.58.30 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Users/student/Desktop/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.41.37 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.21 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.33 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.46 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.43.06 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.47.42 PM.png
+Type: Other
+
+/Users/student/Desktop/IMG_0842.PNG
+Type: Other
+
+/Users/student/Downloads/IMG_0843.PNG
+Type: Other
+
+/Users/student/Desktop/  .PNG
+Type: Other
+
+/Users/student/Downloads/IMG_0844.PNG
+Type: Other
+
+/Users/student/Desktop/IMG_0844.PNG
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.47.42 PM.png
+Type: Other
+
+/Users/student/Downloads/IMG_0842.PNG
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.41.37 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.21 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.33 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.42.46 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/classes profile/Screen Shot 2015-04-27 at 2.43.06 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Users/student/Desktop/Istudy project/Profile/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 8.22.51 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-27 at 2.22.59 PM.png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/IMG_0796-(2).png
+Type: Other
+
+/Users/student/Downloads/Istudy project/Profile/IMG_0796.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/IMG_0796-(1).png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-19 at 3.58.30 PM.png
+Type: Other
+
+/Users/student/Desktop/Screen Shot 2015-04-19 at 3.56.29 PM.png
+Type: Other
+
+/Volumes/JOSH/UX class/Istudy project/Profile/Screen Shot 2015-04-27 at 2.22.59 PM.png
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
